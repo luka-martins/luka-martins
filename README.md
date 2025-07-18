@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Lucas!  
 
-<!--
-**luka-martins/luka-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+Desenvolvedor em inicio de carreira, comprometido a criar soluções modernas, funcionais e com código de qualidade.
+Tenho focado meus estudos em <strong>Java</strong> e <strong>Spring</strong>, com o objetivo de transformar cada aprendizado em projetos funcionais
+</p>
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Técnico em Mecatronica pela ETEC  
+- 🎓 Graduado em Sistemas de informção pela USP
+- 📚 Estudando Java, Spring e Angular, e desenvolvimento fullstack
+- 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎯 Objetivo: criar jogos que quebrem a 4ª parede como o Deadpool.
+
+---
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+</picture>
+
+📫 Como me encontrar:  
+- [Meu LinkedIn](https://www.linkedin.com/in/seuusuario)  
+- Email para contato: lucas.amp98@gmail.com
