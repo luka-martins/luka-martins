@@ -16,11 +16,10 @@ Tenho focado meus estudos em <strong>Java</strong> e <strong>Spring</strong>, co
 ---
 
 <br>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luka-martins/luka-martins/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luka-martins/luka-martins/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/luka-martins/luka-martins/output/github-snake.svg">
 </picture>
 
 📫 Como me encontrar:  
