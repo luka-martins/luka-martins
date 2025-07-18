@@ -26,5 +26,5 @@ Tenho focado meus estudos em <strong>Java</strong> e <strong>Spring</strong>, co
 
 
 📫 Como me encontrar:  
-- [Meu LinkedIn](https://www.linkedin.com/in/seuusuario)  
+- [Meu LinkedIn]([https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/lucas-alexandre-martins-dos-praseres-26602b193/))  
 - Email para contato: lucas.amp98@gmail.com
