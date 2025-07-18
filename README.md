@@ -11,8 +11,6 @@ Tenho focado meus estudos em <strong>Java</strong> e <strong>Spring</strong>, co
 - 🎓 Graduado em Sistemas de informção pela USP
 - 📚 Estudando Java, Spring e Angular, e desenvolvimento fullstack
 - 🌍 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎯 Objetivo: criar jogos que quebrem a 4ª parede como o Deadpool.
-
 ---
 
 
