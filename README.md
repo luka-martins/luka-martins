@@ -15,7 +15,6 @@ Tenho focado meus estudos em <strong>Java</strong> e <strong>Spring</strong>, co
 
 ---
 
-<img src="https://raw.githubusercontent.com/luka-martins/luka-martins/output/snake.svg" alt="Snake animation" />
 
 ## 📊 Minhas Contribuições
 
