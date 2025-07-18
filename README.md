@@ -22,9 +22,9 @@ Tenho focado meus estudos em <strong>Java</strong> e <strong>Spring</strong>, co
 
 ## 🛠️ Tecnologias e Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luka-martins&layout=compact&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luka-martins&layout=compact&theme=github_dark&hide_border=true )
 
 
 📫 Como me encontrar:  
-- [Meu LinkedIn]([https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/lucas-alexandre-martins-dos-praseres-26602b193/))  
+- [Meu LinkedIn](https://www.linkedin.com/in/lucas-alexandre-martins-dos-praseres-26602b193)  
 - Email para contato: lucas.amp98@gmail.com
