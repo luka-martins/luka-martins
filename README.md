@@ -15,12 +15,16 @@ Tenho focado meus estudos em <strong>Java</strong> e <strong>Spring</strong>, co
 
 ---
 
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luka-martins/luka-martins/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luka-martins/luka-martins/output/github-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/luka-martins/luka-martins/output/github-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/luka-martins/luka-martins/output/snake.svg" alt="Snake animation" />
+
+## 📊 Minhas Contribuições
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=luka-martins&show_icons=true&theme=github_dark)
+
+## 🛠️ Tecnologias e Linguagens
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luka-martins&layout=compact&theme=github_dark&hide_border=true)
+
 
 📫 Como me encontrar:  
 - [Meu LinkedIn](https://www.linkedin.com/in/seuusuario)  
